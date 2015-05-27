@@ -36,11 +36,11 @@ Actually, depending on the infrastructure, some of the fields above have an over
 ============
 Usage
 ============
-The usage of the portlet is simple; the user can select to upload a local R macro file selecting the Browse button in the **Application input file** section, or insert inside the text field the R macro text by pasting a text or editing directly on the larger text box below.
+The usage of the portlet is simple; the user can select to upload a local Octave macro file selecting the Browse button in the **Application input file** section, or insert inside the text field the Octave macro text by pasting a text or editing directly on the larger text box below.
 The **job identifier** text is a human readable values that users will use to keep track of any job execution.
 Following buttons: Demo, Submit, Reset values and About are respectively:
 
- *Demo* - Fills the Macro Text box with an R-Macro example
+ *Demo* - Fills the Macro Text box with an Octave macro example
 
  *Submit* - Executes the given macro on the distributed infrastructure
 
