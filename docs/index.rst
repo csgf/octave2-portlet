@@ -1,7 +1,7 @@
 ============
 About
 ============
-GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.
+.. image:: images/AppLogo.png GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.
 The Octave language is quite similar to Matlab so that most programs are easily portable.
 
 ============
@@ -54,4 +54,16 @@ Following buttons: Demo, Submit, Reset values and About are respectively:
 ============
 Support
 ============
-To get support such as report a bug, a problem or even request new features, please contact `Riccardo Bruno <mailto:riccardo.bruno@ct.infn.it>`_
+To get support such as reporting a bug, a problem or even request new features, please contact
+
+.. _INFN: http://www.ct.infn.it/
+
+:Authors:
+ 
+ `Roberto BARBERA <mailto:roberto.barbera@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+ 
+ `Riccardo BRUNO <mailto:riccardo.bruno@ct.infn.it>`_ - Italian National Institute of Nuclear Physics (INFN_),
+
+ 
+:Version: v1.0
+
