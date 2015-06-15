@@ -1,8 +1,13 @@
+
+*********************
+Octave
+*********************
+
 ============
 About
 ============
 
-.. image:: images/WRF_logo.png
+.. image:: images/AppLogo.png
    :align: left
    :target: http://www.gnu.org/software/octave/
 
