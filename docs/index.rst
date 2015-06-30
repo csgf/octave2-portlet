@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 *********************
 OCTAVE
 *********************
+=======
+******
+OCTAVE
+******
+>>>>>>> origin/master
 
 ============
 About
@@ -11,7 +17,7 @@ About
    :target: http://www.gnu.org/software/octave/
 -------------
 
- GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.
+GNU Octave is a high-level interpreted language, primarily intended for numerical computations. It provides capabilities for the numerical solution of linear and nonlinear problems, and for performing other numerical experiments. It also provides extensive graphics capabilities for data visualization and manipulation.
 The Octave language is quite similar to Matlab so that most programs are easily portable.
 
 ============
